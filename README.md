@@ -1,8 +1,7 @@
 # Resources
 
 A collection of blogs, websites, twitter accounts and other accessibility resources.
-Follow Me - Shiva Bajpai
-[Shiva Bajpai](https://bit.ly/Know-Shiva)  
+Follow Me - [Shiva Bajpai](https://bit.ly/Know-Shiva)  
 
 ## Auditing
 - [Tillsynsmanual för granskning av webbsidor - DIGG.se (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/tillsynsmanual-for-granskning-av-webbsidor)  
